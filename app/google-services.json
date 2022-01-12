@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654460382972",
+    "project_id": "divyang-chatapp",
+    "storage_bucket": "divyang-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654460382972:android:d6e7fa73cf69fdf452f179",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654460382972-e1vg9lee7r2dc85riii4k0nqcvt9k39c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUr_VMZxUE7whbpsxvcq4vvdWUd9w6B5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654460382972-e1vg9lee7r2dc85riii4k0nqcvt9k39c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
